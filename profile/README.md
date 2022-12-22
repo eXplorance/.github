@@ -8,4 +8,11 @@ We also have an active community of developers who are always available to help 
 
 We look forward to working with you and seeing the great things that we can accomplish together.
 
+In this space, you will find:
+- References to our [Blue](https://explorance.com/products/blue/) suite of products including sample code and SDKs
+- References to our [Blue ML](https://explorance.com/products/blueml/) API along with sample code and SDKs
+- References to our [Metrics That Matter](https://explorance.com/products/metrics-that-matter/) (MTM) API including with sample code and SDKs
+
+For more information please visit our [Online help](https://onlinehelp.explorance.com/) or contact your friendly customer support representative.
+
 Thank you for joining us!
